@@ -1,0 +1,23 @@
+.page3div{
+    height: 350px;
+    width: 1000px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+    padding-top: 20px;
+    padding-left: 10px;
+    border-radius: 8px;
+}
+.rulediv{
+    width: 100%;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+li{
+    font-weight: bolder;
+    font-size: large;
+}
